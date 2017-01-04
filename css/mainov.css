@@ -142,6 +142,9 @@ footer{
   transition: opacity 0.35s, transform 0.35s;
   -webkit-transform: translate3d(100%,0,0);
   transform: translate3d(100%,0,0);
+  display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
 
 .hovereffect:hover a, .hovereffect:hover p {
