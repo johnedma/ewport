@@ -5,7 +5,12 @@ yellow #FDFD15 #F6EF25 or "yellow"
 #navigation{
   /*background-color: #15BDEE;
   color: white;*/
-  padding-top: 2px;
+  /*padding-top: 2px;*/
+}
+
+.navbar {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #about{
@@ -40,12 +45,9 @@ i.section-gray{
  .nav, .navbar, .navbar-brand, .navbar-default, .navbar-collapse{
   background-color: #15BDEE;
   border:none;
+  /*padding-top: 2px;*/
 }
 
-.navbar-brand{
-  /*padding-top: 17px;*/
-  /*padding-bottom: 8px;*/
-}
 
 #contact{
   background-color: #15BDEE;
@@ -66,8 +68,8 @@ footer{
 /* hover */
 
 .hovereffect {
-  /*width: 100%;*/
-  /*height: 100%;*/
+  /*width: 100%;
+  height: 100%;*/
   float: left;
   overflow: hidden;
   position: relative;
@@ -158,6 +160,3 @@ footer{
 }
 
 /*------------------------*/
-
-
-/*menlikeclub*/
