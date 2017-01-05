@@ -19,6 +19,9 @@ yellow #FDFD15 #F6EF25 or "yellow"
   /*background: yellow;*/
 }
 
+i.section-gray{
+  color: yellow;
+}
 
 #portfolio{
   padding-top: 60px;
